@@ -1,4 +1,4 @@
-# SQL CHALLENGE
+# SQL challenge
 
 ## Instructions
 

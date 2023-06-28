@@ -2,7 +2,7 @@
 
 ## Instructions
 
-This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
+This challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
 ## Part 1 - Data Modeling 
 
